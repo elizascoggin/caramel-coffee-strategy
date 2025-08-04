@@ -35,10 +35,10 @@ See full recommendations in [`slides/caramel_strategy_deck.pdf`](slides/caramel_
 
 ## Project Files
 
-- `data/amazon_reviews.csv` — cleaned dataset
+- `data/caramel_coffee_project.db` — cleaned dataset
 - `queries/caramel_queries.sql` — SQL queries used for analysis
 - `slides/caramel_strategy_deck.pdf` — final presentation
-
+- `date/amazon_reviews.csv` - original data and reviews 
 ---
 
 ## View the Full Presentation  
