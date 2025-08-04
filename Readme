@@ -1,0 +1,47 @@
+# Caramel Coffee Strategy Analysis
+
+This project analyzes 90 real Amazon reviews of caramel concentrate coffee products from **Java House**, **Javvy**, and **Starbucks**. Using SQL and sentiment tagging, I explored customer satisfaction, brand perception, and trends over time.
+
+---
+
+## Project Objective
+
+Determine which caramel coffee concentrate brand delivers the best customer experience by analyzing sentiment, star ratings, and monthly trends from Amazon reviews.
+
+---
+
+## Tools Used
+
+- SQL (SQLite)
+- Google Sheets (data formatting & visualization)
+- Canva (presentation design)
+- GitHub (project hosting)
+
+---
+
+## Key Findings
+
+- **Javvy** had the highest average rating (4.53) and 26 out of 30 reviews were positive.
+- **Java House** was close behind (4.27) with strong consistency and low negativity.
+- **Starbucks** had the lowest average (3.67) and showed more volatility in sentiment over time.
+
+---
+
+## Recommendations
+
+See full recommendations in [`slides/caramel_strategy_deck.pdf`](slides/caramel_strategy_deck.pdf)
+
+---
+
+## Project Files
+
+- `data/amazon_reviews.csv` — cleaned dataset
+- `queries/caramel_queries.sql` — SQL queries used for analysis
+- `slides/caramel_strategy_deck.pdf` — final presentation
+
+---
+
+## View the Full Presentation  
+ [https://www.canva.com/design/DAGu3z7gRps/kVJ69y-2OqC4Ns4H0zpTAw/view?utm_content=DAGu3z7gRps&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7dd30f704d](https://www.canva.com/design/DAGu3z7gRps/kVJ69y-2OqC4Ns4H0zpTAw/view?utm_content=DAGu3z7gRps&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7dd30f704d)
+
+
